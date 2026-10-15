@@ -1,8 +1,8 @@
 export const dimensions = [
-  {key:'W_O',code:'O',group:'Big Five',groupKey:'big5',label:'เปิดรับประสบการณ์',short:'ความคิดใหม่ · จินตนาการ',detail:'ความสนใจในความคิดสร้างสรรค์ ทฤษฎี และมุมมองใหม่'},
-  {key:'W_C',code:'C',group:'Big Five',groupKey:'big5',label:'มีจิตสำนึกต่อหน้าที่',short:'วางแผน · ทำต่อเนื่อง',detail:'การวางแผน ความมีวินัย และความรอบคอบ'},
-  {key:'W_E',code:'E',group:'Big Five',groupKey:'big5',label:'แสดงตัวและเข้าสังคม',short:'มีพลังเมื่อได้พบผู้คน',detail:'พลังและความมั่นใจเมื่อต้องปฏิสัมพันธ์กับผู้อื่น'},
-  {key:'W_A',code:'A',group:'Big Five',groupKey:'big5',label:'เห็นอกเห็นใจและร่วมมือ',short:'เข้าใจผู้อื่น · ประนีประนอม',detail:'การคำนึงถึงความรู้สึกและการทำงานร่วมกัน'},
+  {key:'W_O',code:'O',group:'Big Five',groupKey:'big5',label:'',short:'ความคิดใหม่ · จินตนาการ',detail:'ความสนใจในความคิดสร้างสรรค์ ทฤษฎี และมุมมองใหม่'},
+  {key:'W_C',code:'C',group:'Big Five',groupKey:'big5',label:'',short:'วางแผน · ทำต่อเนื่อง',detail:'การวางแผน ความมีวินัย และความรอบคอบ'},
+  {key:'W_E',code:'E',group:'Big Five',groupKey:'big5',label:'',short:'มีพลังเมื่อได้พบผู้คน',detail:'พลังและความมั่นใจเมื่อต้องปฏิสัมพันธ์กับผู้อื่น'},
+  {key:'W_A',code:'A',group:'Big Five',groupKey:'big5',label:'',short:'เข้าใจผู้อื่น · ประนีประนอม',detail:'การคำนึงถึงความรู้สึกและการทำงานร่วมกัน'},
   {key:'W_N_High',code:'N+',group:'Big Five',groupKey:'big5',label:'ความหวั่นไหวทางอารมณ์',short:'การตอบสนองต่อความกดดัน',detail:'การรับรู้ความกังวลหรือความกดดัน (คำนวณคู่กับ N− แบบกลับทิศ)'},
   {key:'W_N_Low',code:'N−',group:'Big Five',groupKey:'big5',label:'อารมณ์มั่นคง (กลับทิศจาก N+)',short:'กลับทิศจากข้อ N+',detail:'สร้างจากค่าเฉลี่ย Neuroticism แบบกลับทิศ ไม่ใช่ข้อคำถามแยก',questionable:false},
   {key:'W_R',code:'R',group:'RIASEC',groupKey:'riasec',label:'Realistic · ลงมือปฏิบัติ',short:'เครื่องมือ · ห้องปฏิบัติการ',detail:'ความชอบทำงานกับสิ่งของ เครื่องมือ เครื่องจักร และการลงมือทำ'},
